@@ -1,4 +1,4 @@
-# Somrat - A unique hugo portfolio template (Archived)
+# Levanweb - A unique hugo portfolio template (Archived)
 
 It's a unique portfolio template that made your portfolio website looks great, This is a landing page template powered by bootstrap.
 
@@ -29,14 +29,14 @@ It's a unique portfolio template that made your portfolio website looks great, T
 ## Quick Start
 Quick start options:
 
-- Clone the repo: `git clone https://github.com/somratpro/somrat.git`.
-- [Download from Github](https://github.com/somratpro/somrat/archive/master.zip).
+- Clone the repo: `https://github.com/HellboyVN/PersonalWebsite.git`.
+- [Download from Github](https://github.com/HellboyVN/PersonalWebsite/archive/master.zip).
 
 ## Installation
 
 ```
-$ git clone git@github.com:somratpro/somrat.git
-$ cd somrat/exampleSite/
+$ git clone git@github.com:HellboyVN/PersonalWebsite.git
+$ cd PersonalWebsite/exampleSite/
 $ hugo server --themesDir ../..
 $ build: hugo --themesDir ../..
 
